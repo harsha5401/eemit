@@ -3,8 +3,8 @@ trigger:
     include:
       - main # Or the branch you want to trigger the pipeline on
    
-pr:
-  none     
+# pr:
+#   none     
 pool:
   vmImage: 'ubuntu-latest'
 
