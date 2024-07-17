@@ -1,7 +1,7 @@
 trigger:
   branches:
     include:
-      - main # Or the branch you want to trigger the pipeline on
+      - main 
    
 # pr:
 #   none     
